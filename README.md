@@ -8,7 +8,7 @@ https://elixir.bootlin.com/linux/v4.9.168/source/drivers/gpio/gpio-pca953x.c
 
 #### Install build-essential packages
 ```
-sudo apt-get install build-essential linux-headers-4.9.0-9-amd64=4.9.168-1+deb9u4
+sudo apt-get install build-essential linux-headers-4.9.0-11-amd64
 ```
 
 #### Compile the driver
