@@ -10,5 +10,5 @@ Homepage: https://www.moxa.com/
 Package: moxa-gpio-pca953x-driver-amd64
 Architecture: amd64
 Depends: ${misc:Depends},
-         linux-headers-4.9.0-12-amd64
+         linux-image-4.9.0-12-amd64
 Description: The purpose of this driver is PCA953x 16-bit I/O expander.
