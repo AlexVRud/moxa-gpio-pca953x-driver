@@ -1,3 +1,9 @@
+moxa-gpio-pca953x-driver (4.9.168+1.2.0+deb11+dkms) UNRELEASED; urgency=medium
+
+  * New branch for Debian 11 and DKMS
+
+ -- Alexander Rudalev <a.rudalev@ens.ru>  Mon, 13 Dec 2021 09:59:28 +0300
+
 moxa-gpio-pca953x-driver (4.9.168+1.2.0+deb9) stretch; urgency=low
 
   * feat: update depends on linux kernel 4.9.0-13-amd64

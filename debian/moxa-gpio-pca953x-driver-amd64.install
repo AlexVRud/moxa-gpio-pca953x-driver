@@ -1,2 +1,1 @@
-gpio-pca953x.ko /lib/modules/4.9.0-13-amd64/kernel/drivers/gpio/
 gpio-pca953x.conf /usr/lib/modules-load.d
