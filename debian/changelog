@@ -1,3 +1,9 @@
+moxa-gpio-pca953x-driver (5.10.84+1.2.0+deb11+dkms) UNRELEASED; urgency=medium
+
+  * update driver version from Linux stable 5.10.84
+
+ -- Alexander Rudalev <a.rudalev@ens.ru>  Mon, 13 Dec 2021 11:46:27 +0300
+
 moxa-gpio-pca953x-driver (4.9.168+1.2.0+deb11+dkms) unstable; urgency=medium
 
   * New branch for Debian 11 and DKMS
